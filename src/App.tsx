@@ -281,6 +281,7 @@ const App: React.FC = () => {
                       path="/update-password"
                       element={<UpdatePasswordPage />}
                     />
+                    {/* test */}
                   </Route>
                 </Routes>
                 <UnsavedChangesNotifier />
